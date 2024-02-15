@@ -4,4 +4,4 @@ credentials.json
 *.pem
 *.crt
 *.key
-
+*.idea
